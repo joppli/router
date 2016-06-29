@@ -3,7 +3,7 @@
   "version"     : "0.1.1",
   "description" : "An event bus router",
   "repository"  : "git@github.com:joppli/router.git",
-  "main"        : "src/router.js",
+  "main"        : "lib/router.js",
   "license"     : "WTFPL",
   "keywords"    :
   [
