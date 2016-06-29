@@ -1,0 +1,22 @@
+{
+  "name"        : "@superhero/router",
+  "version"     : "0.1.0",
+  "description" : "An event bus router",
+  "repository"  : "git@github.com:joppli/router.git",
+  "main"        : "src/router.js",
+  "license"     : "WTFPL",
+  "keywords"    :
+  [
+    "router",
+    "emitter",
+    "events",
+    "eventbus",
+    "eventemitter"
+  ],
+  "author"      :
+  {
+    "name"  : "Erik Landvall",
+    "email" : "erik@landvall.se",
+    "url"   : "http://erik.landvall.se"
+  }
+}
