@@ -1,6 +1,6 @@
 {
   "name"        :  "@superhero/router",
-  "version"     :  "0.1.5",
+  "version"     :  "0.2.0",
   "description" :  "An event bus router",
   "repository"  :  "git@github.com:joppli/router.git",
   "main"        :  "lib/router.js",
