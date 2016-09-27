@@ -1,8 +1,8 @@
 {
   "name"        :  "@superhero/router",
-  "version"     :  "0.2.0",
-  "description" :  "An event bus router",
-  "repository"  :  "git@github.com:joppli/router.git",
+  "version"     :  "0.2.2",
+  "description" :  "Event bus router",
+  "repository"  :  "git@github.com:superhero/js.router.git",
   "main"        :  "lib/router.js",
   "license"     :  "WTFPL",
   "keywords"    : ["router","emitter","events","eventbus","eventemitter"],
