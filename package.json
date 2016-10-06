@@ -1,6 +1,6 @@
 {
   "name"        :  "@superhero/router",
-  "version"     :  "0.2.3",
+  "version"     :  "0.2.4",
   "description" :  "Event bus router",
   "repository"  :  "git@github.com:superhero/js.router.git",
   "main"        :  "lib/router.js",
@@ -11,5 +11,9 @@
     "name"  : "Erik Landvall",
     "email" : "erik@landvall.se",
     "url"   : "http://erik.landvall.se"
+  },
+  "dependencies":
+  {
+    "@superhero/debug": "0.0.1"
   }
 }
