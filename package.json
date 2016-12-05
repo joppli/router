@@ -1,10 +1,10 @@
 {
   "name"        :  "@superhero/router",
-  "version"     :  "0.2.6",
+  "version"     :  "0.2.8",
   "description" :  "Event bus router",
   "repository"  :  "git@github.com:superhero/js.router.git",
   "main"        :  "lib/router.js",
-  "license"     :  "WTFPL",
+  "license"     :  "MIT",
   "keywords"    : ["router","emitter","events","eventbus","eventemitter"],
   "author"      :
   {
@@ -14,6 +14,6 @@
   },
   "dependencies":
   {
-    "@superhero/debug": "0.1.0"
+    "@superhero/debug": "*"
   }
 }
