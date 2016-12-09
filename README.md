@@ -1,6 +1,6 @@
 # Router
 
-Licence: [MIT](https://opensource.org/licenses/MIT).
+Licence: [MIT](https://opensource.org/licenses/MIT)
 
 ---
 
