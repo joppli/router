@@ -26,8 +26,6 @@ A router that offers an hierarchy of dispatchers to an event bus.
 ## Example
 
 ```javascript
-'use strict';
-
 const
 EventBus  = require('events');
 bus       = new EventBus(),
@@ -56,6 +54,10 @@ routes    =
       },
       {
         name        :  'bar',
+        acl         : ['admin','editor'], // optional acl validation, will
+                                          // validate to first object sent as
+                                          // parameter through the member
+                                          // variable "role"
         dispatchers : ['api/bar']
       }
     ]
