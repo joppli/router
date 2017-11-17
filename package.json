@@ -1,6 +1,6 @@
 {
   "name"        :  "@superhero/router",
-  "version"     :  "0.5.4",
+  "version"     :  "0.5.5",
   "description" :  "Event bus router",
   "repository"  :  "git@github.com:superhero/js.router.git",
   "main"        :  "lib/router.js",
@@ -14,6 +14,6 @@
   },
   "dependencies":
   {
-    "@superhero/debug": "1.0.2"
+    "@superhero/debug": "1.0.3"
   }
 }
